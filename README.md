@@ -55,7 +55,7 @@ SELECT
 FROM `creating-data-449916.supermarket.Order_Leads_dataset` 
 WHERE Converted = 1;
 ```
-## Results/Findin
+## Results/Findings
 
 The analysis results are summarized as follows:
 1. Disccovered the most profitable category/meal which is DINNER
