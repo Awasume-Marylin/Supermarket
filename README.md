@@ -4,7 +4,7 @@
 
 ## Table of Contents
  - [Project Overview](#project-overview) 
- - [Data Sources](*dat-sources)
+ - [Data Sources](*data-sources)
  - [Tools](*tools)
  - [Data Cleaning Preparation](*data-cleaning-preparation)
  - [Exploratory Data Analysis](*exploratory-data-analysis)
