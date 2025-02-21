@@ -3,19 +3,20 @@
 ---
 
 ## Table of Contents
- - [Project Overview](#project-overview) 
- - [Data Sources](#data-sources)
- - [Tools](#tools)
- - [Data Cleaning Preparation](#data-cleaning-preparation)
- - [Exploratory Data Analysis](#exploratory-data-analysis)
+  - [Project Overview](#project-overview) 
+  - [Data Sources](#data-sources)
+  - [Tools](#tools)
+  - [Data Cleaning Preparation](#data-cleaning-preparation)
+  - [Exploratory Data Analysis](#exploratory-data-analysis)
   - [Data Analysis](#data-analysis)
-  - [Results/Findings](#results/findings)
+  - [Findings](#findings)
   - [Recommendation](#recommendation)
   - [Limitations](#limitations)
    
 
 ### Project Overview
 ---
+
 This project analysis is aimed at answering basic business questions using SQL queries. By answering this basic questions, i am able to gain insights on trends and make data driven decisions. 
 
 ![alt](https://github.com/Awasume-Marylin/Supermarket/blob/f287ef7929f877a40f144705b191777ae656e820/Images/Relational%20Database.png)
@@ -45,7 +46,7 @@ It involves exploring the data to answer the basic business questions, such as;
 3. Meals with no orders (use LEFT JOIN and WHERE IS NULL).
 4. Orders with invalid customer/product IDs (data validation).
    
-**Data Analysis**
+## Data Analysis
 
 Include some commands like
 
@@ -55,7 +56,7 @@ SELECT
 FROM `creating-data-449916.supermarket.Order_Leads_dataset` 
 WHERE Converted = 1;
 ```
-## Results/Findings
+## Findings
 
 The analysis results are summarized as follows:
 1. Disccovered the most profitable category/meal which is DINNER
