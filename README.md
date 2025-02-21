@@ -3,16 +3,16 @@
 ---
 
 ## Table of Contents
-- [Project Overview](#project-overview) 
- - [Data Sources](*data-sources)
+ - [Project Overview](#project-overview) 
+ - [Data Sources](*dat-sources)
  - [Tools](*tools)
- - [Data Cleaning Preparation](*data-cleaning_preparation)
+ - [Data Cleaning Preparation](*data-cleaning-preparation)
  - [Exploratory Data Analysis](*exploratory-data-analysis)
- - [Data Analysis](*data-analysis)
- - [Results/Findings](*results/findings)
- - [Recommendation](*recommendation)
- - [Limitations](*limitations)
- - 
+  - [Data Analysis](*data-analysis)
+  - [Results/Findings](*results/findings)
+  - [Recommendation](*recommendation)
+  - [Limitations](*limitations)
+   
 
 ### Project Overview
 ---
